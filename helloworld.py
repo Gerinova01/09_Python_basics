@@ -1,0 +1,8 @@
+print("Hello World")
+print("MY name is Kullai Gergő")
+print("Enter your lastname")
+lastname = input()
+print("Enter your firstname")
+firstname = input()
+print("Hello " + lastname+ " "+ firstname+"!") 
+print(f"Hello, {lastname} {firstname}!")

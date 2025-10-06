@@ -8,3 +8,4 @@ szam = int(input("Adj meg egy egész számot számot "))
 
 for x in range(1, szam):
     print(x)
+print (sum(range(1,szam)))
